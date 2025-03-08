@@ -3,4 +3,5 @@
 n1 = int(input("Digite um número inteiro"))
 n2 = float(input("Digite um número com casa decimal"))
 soma = n1+n2
-print(f"A soma do {n1} e do {n2} é {soma}. ")
+media = n1+n2/2
+print(f"A soma do {n1} e do {n2} é {soma}, a media é {media}")
